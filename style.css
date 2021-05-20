@@ -1,0 +1,21 @@
+body {
+    background-color: blueviolet;
+}
+
+.flex-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.counter {
+  color: yellow;
+  font-size: 30px;
+}
+
+span {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
